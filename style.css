@@ -114,10 +114,15 @@ p {
 }
 
 section#projects {
-  margin-top: 250px; /* Adjust the spacing here */
+  margin-top: 250px;
 }
 
 section#about {
+  margin-top: 350px;
+  margin-bottom: 50px;
+}
+
+section#contact {
   margin-top: 350px;
   margin-bottom: 50px;
 }
